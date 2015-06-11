@@ -6,10 +6,10 @@ A Java Program to solve a Wordament board and print the results
  * INPUT SPECIFICATION: Enter each row as a single joint word
   eg.
       A board that looks like
-      q w e r
-      a s d f
-      z x c v
-      t y u i
+      q w e r;
+      a s d f;
+      z x c v;
+      t y u i;
 
       is to be entered like
       qwer
